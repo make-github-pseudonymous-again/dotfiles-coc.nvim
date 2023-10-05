@@ -2,6 +2,7 @@
   "dependencies": {
     "coc-json": ">=1.4.1",
     "coc-pyright": ">=1.1.269",
+    "coc-snippets": ">=3.1.10",
     "coc-tsserver": ">=1.11.6"
   }
 }
